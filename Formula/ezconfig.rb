@@ -1,8 +1,8 @@
 class Ezconfig < Formula
   desc "Automate multi-developer code signing setup for Xcode projects"
   homepage "https://github.com/Revanfer14/ezconfig"
-  url "https://github.com/Revanfer14/ezconfig/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "0735fce67136485040cf996b3eca76de1b7536f712d6ab6c17d60df9632356e7"
+  url "https://github.com/Revanfer14/ezconfig/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "8358bc759af69ba9e09490b5268750da39e13884388d451374bb1657fc189ad3"
   license "MIT"
 
   depends_on xcode: ["16.0", :build]
